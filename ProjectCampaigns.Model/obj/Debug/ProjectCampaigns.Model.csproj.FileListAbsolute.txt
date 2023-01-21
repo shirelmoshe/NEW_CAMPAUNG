@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Model\bin\Debug\ProjectCampaigns.Model.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Model\bin\Debug\ProjectCampaigns.Model.pdb
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Model\obj\Debug\ProjectCampaigns.Model.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Model\obj\Debug\ProjectCampaigns.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Model\obj\Debug\ProjectCampaigns.Model.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Model\obj\Debug\ProjectCampaigns.Model.pdb
